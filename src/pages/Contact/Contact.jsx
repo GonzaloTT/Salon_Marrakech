@@ -52,17 +52,17 @@ export default function Contact() {
 
             <div>
               <h3>Ubicación</h3>
-              <p>Querétaro, México</p>
+              <p>Avenida Mirador de Tequisquiapan 48, Fraccionamiento el Mirador, Querétaro, Qro., México</p>
             </div>
 
             <div>
               <h3>Teléfono</h3>
-              <p>+52 442 000 0000</p>
+              <p>+52 442 253 4454</p>
             </div>
 
             <div>
               <h3>Horario</h3>
-              <p>Lunes a Sábado: 9:00 - 19:00</p>
+              <p>Martes a Sábado: 9:00 - 18:00</p>
             </div>
 
           </div>

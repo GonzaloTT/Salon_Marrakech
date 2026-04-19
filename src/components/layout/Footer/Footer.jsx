@@ -31,7 +31,7 @@ export default function Footer() {
           {/* Contacto */}
           <div className="footer__contact">
             <h4>Contacto</h4>
-            <p>Querétaro, México</p>
+            <p>Avenida Mirador de Tequisquiapan 48, Fraccionamiento el Mirador, Querétaro, Qro., México</p>
             <p>+52 442 253 4454</p>
             <p>marrakech.salon.qro@gmail.com</p>
           </div>

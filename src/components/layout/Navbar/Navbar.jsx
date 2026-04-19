@@ -13,10 +13,6 @@ export default function Navbar() {
         Estilistas
       </NavLink>
 
-      <NavLink to="/rituales" className="navbar__link">
-        Rituales
-      </NavLink>
-
       <NavLink to="/galeria" className="navbar__link">
         Galería
       </NavLink>
