@@ -21,9 +21,10 @@
 }
 
 .header__cta {
+  display: inline-block;
+  text-decoration: none; /* 🔥 importante */
   background-color: #a47148;
   color: white;
-  border: none;
   padding: 10px 18px;
   font-size: 13px;
   cursor: pointer;
