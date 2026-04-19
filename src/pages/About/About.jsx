@@ -4,6 +4,14 @@ import SectionTitle from "../../components/ui/SectionTitle/SectionTitle";
 import Button from "../../components/ui/Button/Button";
 
 export default function About() {
+  const phone = "524421568407";
+
+  const message = encodeURIComponent(
+  "Hola, me gustaría agendar una cita en Marrakech Beauty Salon. ¿Podrían darme información de disponibilidad?"
+  );
+
+  const whatsappUrl = `https://wa.me/${phone}?text=${message}`;
+
   return (
     <main className="about">
 
@@ -58,7 +66,7 @@ export default function About() {
       <section className="about__cta">
         <Container>
           <h2>Descubre tu mejor versión</h2>
-          <Button size="large">Reservar cita</Button>
+          <Button size="large" href={whatsappUrl}>Reservar cita</Button>
         </Container>
       </section>
 

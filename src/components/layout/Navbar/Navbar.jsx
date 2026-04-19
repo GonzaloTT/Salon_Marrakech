@@ -6,11 +6,11 @@ export default function Navbar() {
     <nav className="navbar">
 
       <NavLink to="/servicios" className="navbar__link">
-        Tratamientos
+        Servicios
       </NavLink>
 
       <NavLink to="/nosotros" className="navbar__link">
-        Estilistas
+        Sobre Nosotros
       </NavLink>
 
       <NavLink to="/galeria" className="navbar__link">
