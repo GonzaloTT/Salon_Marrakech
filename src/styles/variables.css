@@ -1,0 +1,13 @@
+:root {
+  --color-primary: #a47148;
+  --color-secondary: #f5f1eb;
+  --color-dark: #1a1a1a;
+  --color-text: #333;
+
+  --font-title: "Playfair Display", serif;
+  --font-body: "Inter", sans-serif;
+
+  --spacing-lg: 80px;
+  --spacing-md: 40px;
+  --spacing-sm: 20px;
+}
